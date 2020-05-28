@@ -4,6 +4,7 @@ this is the second repository that I have made
 
 This is the second change that I am making in this file.
 
-
+Test feature 1
+Test feature 2
 
 Thank you.
